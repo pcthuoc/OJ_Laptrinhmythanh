@@ -41,7 +41,7 @@ set NODE_ENV=development
 npm run build:dll
 
 # the dev-server will set proxy table to your backend
-set TARGET=http://Your-backend
+export TARGET=http://192.168.1.10
 
 # serve with hot reload at localhost:8080
 npm run dev
@@ -59,7 +59,7 @@ Modern browsers and Internet Explorer 10+.
 
 [MIT](http://opensource.org/licenses/MIT)
 
-## Attention
+## Attentioncle
 
 ```
 #custom JavaScript or CSS   自定义JavaScript/CSS
@@ -71,3 +71,4 @@ Modern browsers and Internet Explorer 10+.
 #language    语言文件
 ./src/i18n
 ```
+# OJ_Laptrinhmythanh
