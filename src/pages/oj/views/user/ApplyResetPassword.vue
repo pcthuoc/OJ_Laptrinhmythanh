@@ -32,7 +32,7 @@
     <template v-else>
       <Alert type="success" show-icon>
         {{$t('Success')}}
-        <span slot="desc"> {{$t('Password_reset_mail_sent')}}</span>
+        <span slot="desc"> {{$t('Mật khẩu bạn đã được thay đổi. Vui lòng check hộ thư(kể cả thư spam)')}}</span>
       </Alert>
     </template>
   </Panel>

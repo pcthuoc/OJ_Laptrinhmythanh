@@ -24,6 +24,7 @@ export const m = {
   Show: 'Hiện',
   Submit: 'Nộp bài',
   Judging: 'Đang chấm',
+  Submitting: 'Đang nộp',
   Wrong_Answer: 'Wrong Answer',
   Statistic: 'Thống kê',
   Close: 'Đóng',

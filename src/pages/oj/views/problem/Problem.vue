@@ -110,7 +110,7 @@
             <Button type="warning" icon="md-cloud-upload" :loading="submitting" @click="submitCode"
                     :disabled="problemSubmitDisabled || submitted"
                     class="fl-right">
-              <span v-if="submitting">{{$t('m.Submitting')}}</span>
+              <span v-if="submitting">{{$t('Submitting')}}</span>
               <span v-else>{{$t('m.Submit')}}</span>
             </Button>
           </Col>

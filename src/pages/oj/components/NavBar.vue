@@ -1,7 +1,6 @@
 <template>
   <div id="header">
     <Menu theme="light" mode="horizontal" @on-select="handleRoute" :active-name="activeMenu" :class="oj-menu">
-      <div class="logo"><span>{{ "laptrinhmythanh" }}</span></div>
       <Menu-item name="/">
         <Icon type="md-home"></Icon>
         {{$t('m.Home')}}
