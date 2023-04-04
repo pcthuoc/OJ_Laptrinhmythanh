@@ -16,7 +16,7 @@
 
 Install Node.JS **v12.16.1** first.
 
-### Linux
+### Develop
 
 ```bash
 npm install
